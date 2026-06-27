@@ -10,15 +10,14 @@ body{
 }
 
 .camera-container{
-    width:55vw;
+    width:65vw;
     max-width:900px;
-    margin-top:20px;
     display:flex;
     justify-content:center;
 }
 
 video{
-    width:55vw;
+    width:65vw;
     height:auto;
 
     border-radius:50px;
